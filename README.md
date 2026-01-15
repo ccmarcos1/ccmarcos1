@@ -114,17 +114,7 @@ Tenho experiência em **sistemas financeiros**, **automação de processos** e *
 
 ---
 
-## 📊 Nível de Domínio (autoavaliação)
-- HTML/CSS: **80%**
-- ASP.NET: **80%**
-- C#: **80%**
-- SQL Server / PostgreSQL: **80%**
-- React JS: **70%**
-- Node JS: **70%**
-
----
-
 ## 📫 Contato
-- LinkedIn: *(adicione seu link aqui)*
-- E-mail: *(adicione seu e-mail aqui)*
-- Portfólio: *(adicione seu site ou repo principal aqui)*
+- LinkedIn: linkedin.com/in/marcos-mrdev
+- E-mail: ccmarcos1@gmail.com
+- Portfólio: [*(adicione seu site ou repo principal aqui)*](https://infobcdev.onlinebc.com.br/Portfolio/)
